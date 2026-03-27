@@ -1,0 +1,6 @@
+a149094 (develop) hotfix: error login		# HOTFIX para cherrypickear
+f8892bc Función B añadido en rama develop
+91d3144 Función A añadido en rama develop
+c35d6e5 (HEAD -> main) crear app version 1.0
+87eb5fe (origin/main, origin/HEAD) add deadline
+8c0fb31 Initial commit
