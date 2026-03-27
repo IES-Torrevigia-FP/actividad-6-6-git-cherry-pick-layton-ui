@@ -1,0 +1,18 @@
+No tengo la salida exacta de git status en el momento del conflicto, ya que el cambio era suficientemente fácil de corregir.
+Sí que puedo pegar un git status inventado de cómo saldría aproximadamente.
+
+
+On branch main 
+You are currently cherry-picking commit 3f4a2b1. 
+
+Unmerged paths: (use "git add <file>..." to mark resolution) 
+
+both modified: app.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+
+===
+
+El conflicto en app.txt se resolvió simplemente combinando las dos versiones con un editor de texto, y quitando los marcadores (<<<<<<<<, ========, >>>>>>>>)
+He utilizado --continue en este caso para guardar mis cambios al documento.
