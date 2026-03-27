@@ -1,0 +1,22 @@
+layto@Robin MINGW64 ~/dev/actividad-6-6-git-cherry-pick-layton-ui (test)
+$ git log --oneline
+b964f03 (HEAD -> test) hotfix: error login - cherrypick
+ac47d29 Función B - cherrypick
+6e370b1 (main) cp2
+e159145 hotfix: error login - cherry-pick
+654bfdd cp1
+c35d6e5 crear app version 1.0
+87eb5fe (origin/main, origin/HEAD) add deadline
+8c0fb31 Initial commit
+
+layto@Robin MINGW64 ~/dev/actividad-6-6-git-cherry-pick-layton-ui (test)
+$ cat app.txt
+Aplicación Versión 1.0
+
+Función B - en desarrollo
+HOTFIX: corregir error crítico en pantalla login
+
+===
+
+merge - unir todos los cambios y el historial en otra rama
+cherry-pick - copiar sólamente commits específicos, sin juntar la rama entera
