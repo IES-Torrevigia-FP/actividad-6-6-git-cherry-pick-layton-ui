@@ -3,3 +3,4 @@ Aplicación Versión 1.0
 Función B - en desarrollo
 HOTFIX: corregir error crítico en pantalla login
 
+
