@@ -1,3 +1,4 @@
 Aplicación Versión 1.0
 Función A - en desarrollo
 Función B - en desarrollo
+HOTFIX: corregir error crítico en pantalla login
