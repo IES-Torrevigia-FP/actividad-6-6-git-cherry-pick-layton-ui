@@ -1,0 +1,20 @@
+layto@Robin MINGW64 ~/dev/actividad-6-6-git-cherry-pick-layton-ui (main)
+$ git log --oneline
+e159145 (HEAD -> main) hotfix: error login - cherry-pick
+654bfdd cp1
+c35d6e5 crear app version 1.0
+87eb5fe (origin/main, origin/HEAD) add deadline
+8c0fb31 Initial commit
+
+layto@Robin MINGW64 ~/dev/actividad-6-6-git-cherry-pick-layton-ui (main)
+$ cat app.txt 
+Aplicación Versión 1.0
+
+Función A - en desarrollo
+Función B - en desarrollo
+HOTFIX: corregir error crítico en pantalla login
+
+===
+
+Esto nos puede resultar muy útil cuando hemos resuelto un error en nuestro código principal en una rama, pero todavía no queremos añadir los 
+cambios que hace la rama
